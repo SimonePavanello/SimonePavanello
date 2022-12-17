@@ -21,6 +21,7 @@ I am a Full Backend Developer And Tech Leader <img src="https://media.giphy.com/
  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgress"  alt="Postgress" width="40" height="40"/>&nbsp;
 </p>
 
 ## 🛠 &nbsp;Frontend :
@@ -35,6 +36,8 @@ I am a Full Backend Developer And Tech Leader <img src="https://media.giphy.com/
 
 ## 🛠 &nbsp;IDE :
 <p>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="Intellij"  alt="Intelllij" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VsCode"  alt="VsCode" width="40" height="40"/>&nbsp;
 </p>
 
 ## 🛠 &nbsp;Tools :
