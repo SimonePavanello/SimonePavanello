@@ -16,30 +16,30 @@ I am a Full Backend Developer And Tech Leader <img src="https://media.giphy.com/
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-simone-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/simone-pavanello/)
 
 ---
-
-### 🛠 &nbsp;Backend :
+### 🛠 &nbsp;Tech Stack :
+## 🛠 &nbsp;Backend :
 <p>
  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 </p>
-### 🛠 &nbsp;Frontend :
+## 🛠 &nbsp;Frontend :
 <p>
  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
 </p>
-### 🛠 &nbsp;Mobile :
+## 🛠 &nbsp;Mobile :
 <p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
 </p>
-### 🛠 &nbsp;IDE :
+## 🛠 &nbsp;IDE :
 <p>
 </p>
-### 🛠 &nbsp;Tools :
+## 🛠 &nbsp;Tools :
 <p>
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 </p>
-### 🛠 &nbsp;Build :
+## 🛠 &nbsp;Build :
 <p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain-wordmark.svg" title="Gradle"  alt="Gradle" width="40" height="40"/>&nbsp;
 
